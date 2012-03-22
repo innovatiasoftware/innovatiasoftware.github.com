@@ -35,7 +35,7 @@ The intention behind this blog post is to give you a leg up onto that enlightene
 
 So there you have it. That’s my list of recommended topics to discuss and agree on as a team at the beginning of a new project. This list should give all included a well balanced and shared understanding of why the project exists, what the customer wants from it, when it needs to be delivered, who is delivering it, what boundaries it needs to be within, who will be using it, and what can derail you. In addition, it also forges an agreement on what you are delivering, that it can actually be delivered and what the specific stages of delivery are.  
 
-Right. Now all you have to do is gather the information on these topics with respect to your project, put them into a document, and distribute to the relevant parties. In true ‘Blue Peter’ style, here’s one I prepared earlier for a real project, with the names changed to protect the innocent. Feel free to use and adapt this to meet your needs.  [link reqd]  
+Right. Now all you have to do is gather the information on these topics with respect to your project, put them into a document, and distribute to the relevant parties. In true ‘Blue Peter’ style, [here’s one](http://googledocs.com) I prepared earlier for a real project, with the names changed to protect the innocent. Feel free to use and adapt this to meet your needs.   
 
 Once complete, you can circulate your document safe in the knowledge that most of the areas that can send a project down the wrong path have been discussed and agreed on. With a solid foundation upon which to build your project, you’re now ready to start on your requirements.  
 
